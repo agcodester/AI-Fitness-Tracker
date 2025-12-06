@@ -26,7 +26,6 @@ CV-PROJECT/
 ├── camera2.py
 ├── camera3.py
 ├── camera4.py
-└── __pycache__/
 
 ----------------------------------------
 TECHNOLOGIES USED
